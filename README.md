@@ -3,30 +3,30 @@
 
 ***Conteúdo da Aula:***
 
-* Tecnologias utilizadas para Front-end:
-  * HTML:
+* Tecnologias utilizadas para ***Front-end***:
+  * ***HTML***:
     * Definição da estrutura.
-  * CSS:
+  * ***CSS***:
     * Definição de estilo.
-  * JavaScript:
+  * ***JavaScript***:
     * Definição do comportamento.
-  * Frameworks CSS:
-    * Bootstrap.
-    * Materialize.
-    * Foundation zurb.
-    * Tailwind CSS.
-  * Bibliotecas e Frameworks de desenvolvimento:
-    * React.
-    * Vue.
-    * Angular.
+  * ***Frameworks CSS***:
+    * *Bootstrap*.
+    * *Materialize*.
+    * *Foundation zurb*.
+    * *Tailwind CSS*.
+  * ***Bibliotecas e Frameworks de desenvolvimento***:
+    * *React*.
+    * *Vue*.
+    * *Angular*.
 
-* Tecnologias utilizadas para Back-end e APIs:
-  * PHP.
-  * Python.
-  * Node.js.
-  * Java.
-  * .NET.
-  * Ruby.
+* ***Tecnologias utilizadas para Back-end e APIs***:
+  * *PHP*.
+  * *Python*.
+  * *Node.js*.
+  * *Java*.
+  * *.NET*.
+  * *Ruby*.
 
 <!-- Informações -->
 ## &#8505; Informações
